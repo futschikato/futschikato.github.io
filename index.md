@@ -1,11 +1,5 @@
----
-layout: none
-theme: jekyll-theme-midnight
-published: true
----
 
 
-<!DOCTYPE html>
 <html>
 <body>
 <h1>Hello World</h1>
